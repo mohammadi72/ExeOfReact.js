@@ -1,0 +1,12 @@
+.classCounter {
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    margin-top: 20rem;
+    background-color: rgb(146, 80, 80);
+
+}
